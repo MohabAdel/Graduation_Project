@@ -1,8 +1,3 @@
-// UARTTestMain.c
-// Runs on LM4F120/TM4C123
-// Used to test the UART.c driver
-// Daniel Valvano
-// May 30, 2014
 
 /* This example accompanies the book
    "Embedded Systems: Real Time Interfacing to Arm Cortex M Microcontrollers",
